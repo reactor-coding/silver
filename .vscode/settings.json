@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    // txtファイルをブックマークレット(JavaScript)として関連付け
+    "*.txt": "javascript"
+  }
+}
