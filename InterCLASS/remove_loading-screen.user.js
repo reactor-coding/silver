@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         InterCLASS Screen Cleaner
 // @namespace    https://blogbooks.net
-// @version      1.0
+// @version      1.1
 // @author       reactor-coding
 // @description  InterCLASS Filtering Serviceの「設定読み込み中」の画面を消します
 // @match        *://*/*
