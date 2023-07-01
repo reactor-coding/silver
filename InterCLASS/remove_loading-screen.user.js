@@ -3,6 +3,7 @@
 // @namespace    https://blogbooks.net
 // @version      1.0
 // @author       reactor-coding
+// @description  InterCLASS Filtering Serviceの「設定読み込み中」の画面を消します
 // @match        *://*/*
 // @icon         https://blogbooks.net/wp-content/uploads/2021/12/logo-2.png
 // @updateURL    https://github.com/reactor-coding/silver/raw/main/InterCLASS/remove_loading-screen.user.js
